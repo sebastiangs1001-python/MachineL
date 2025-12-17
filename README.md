@@ -1,5 +1,5 @@
 Primera Entrega Corregida (Comentarios):
-La profesora comentó que el trabajo presentaba varias deficiencias formales y conceptuales que debían de ser corregidas. Comentaba que en el archivo main no se encontraba actualizado y la estructura de carpetas no seguía las especificaciones establecidas, lo que dificulta la comprensión y evaluación del proyecto. Asimismo, se observan numerosas erratas que afectan a la claridad y al rigor académico del documento. Desde un punto de vista metodológico, no quedaba claramente definido el horizonte temporal con el que se pretende predecir los valores, un aspecto clave que condiciona de manera significativa el diseño y la construcción del modelo. En esta misma línea, tampoco se ha definido adecuadamente la variable target, lo cual supone una carencia fundamental, ya que la correcta formulación del problema de predicción es un requisito imprescindible para el desarrollo coherente y válido del modelo.
+
 Link repositorio
 https://github.com/sebastiangs1001-python/MachineL
 
