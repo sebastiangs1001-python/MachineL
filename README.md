@@ -1,5 +1,3 @@
-Primera Entrega Corregida (Comentarios):
-
 Link repositorio
 https://github.com/sebastiangs1001-python/MachineL
 
